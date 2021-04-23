@@ -83,6 +83,6 @@
     <footer class="pie">
         Derechos reservados EL SAMÁN ©
     </footer>            
-</body>    
-        </div>
+           </div>
+ </body> 
 </html>
